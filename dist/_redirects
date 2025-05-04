@@ -1,0 +1,10 @@
+# Redirect language-less routes to default language (for SEO)
+https://www.brainrot-memes.com/* https://brainrot-memes.com/:splat 301!
+http://www.brainrot-memes.com/* https://brainrot-memes.com/:splat 301!
+/sounds              /english/sounds              301
+/leaderboard         /english/leaderboard         301
+/savedsounds         /english/savedsounds         301
+/memesound           /english/memesound           301
+
+# Preserve memesound with ID parameters
+/memesound/:sound_id /english/memesound/:sound_id 301
