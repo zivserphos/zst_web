@@ -10,6 +10,21 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://brainrot-memes.com/leaderboard</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brainrot-memes.com/savedsounds</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://brainrot-memes.com/blog</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://brainrot-memes.com/privacy-policy</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
@@ -28,11 +43,6 @@
     <loc>https://brainrot-memes.com/community-guidelines</loc>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/blog</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/blog/brainrot-ai-nonsense-sounds</loc>
@@ -145,16 +155,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/english/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/english/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/english/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -185,34 +185,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/portuguese/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/portuguese/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/portuguese/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/portuguese/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/portuguese/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/portuguese/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/spanish</loc>
@@ -225,34 +200,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/spanish/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/spanish/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/spanish/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/spanish/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/spanish/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/spanish/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/german</loc>
@@ -265,34 +215,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/german/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/german/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/german/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/german/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/german/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/german/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/russian</loc>
@@ -305,34 +230,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/russian/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/russian/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/russian/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/russian/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/russian/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/russian/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/arabic</loc>
@@ -345,34 +245,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/arabic/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/arabic/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/arabic/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/arabic/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/arabic/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/arabic/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/japanese</loc>
@@ -385,34 +260,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/japanese/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/japanese/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/japanese/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/japanese/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/japanese/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/japanese/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/korean</loc>
@@ -425,34 +275,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/korean/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/korean/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/korean/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/korean/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/korean/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/korean/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/vietnamese</loc>
@@ -465,34 +290,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/vietnamese/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/vietnamese/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/vietnamese/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/vietnamese/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/vietnamese/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/vietnamese/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/chinese</loc>
@@ -505,34 +305,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/chinese/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/chinese/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/chinese/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/chinese/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/chinese/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/chinese/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/french</loc>
@@ -545,34 +320,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/french/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/french/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/french/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/french/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/french/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/french/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/italian</loc>
@@ -585,34 +335,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/italian/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/italian/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/italian/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/italian/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/italian/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/italian/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/turkish</loc>
@@ -625,34 +350,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/turkish/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/turkish/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/turkish/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/turkish/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/turkish/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/turkish/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/hindi</loc>
@@ -665,34 +365,9 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/hindi/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hindi/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/hindi/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hindi/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hindi/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hindi/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://brainrot-memes.com/hebrew</loc>
@@ -705,33 +380,8 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://brainrot-memes.com/hebrew/leaderboard</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hebrew/savedsounds</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://brainrot-memes.com/hebrew/memesound</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hebrew/memesound/eatin_the_dogs</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hebrew/memesound/yes_yes_skibidi_yes</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://brainrot-memes.com/hebrew/memesound/tralalero_tralala</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
   </url>
 </urlset>

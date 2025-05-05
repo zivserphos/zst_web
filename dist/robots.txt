@@ -1,4 +1,7 @@
 User-agent: *
+Disallow: /*/blog
+Disallow: /*/savedsounds
+Disallow: /*/leaderboard
 Allow: /
 
 Sitemap: https://brainrot-memes.com/sitemap.xml

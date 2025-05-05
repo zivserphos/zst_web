@@ -1,8 +1,0 @@
-# Redirect language-less routes to default language (for SEO)
-/sounds              /english/sounds              301
-/leaderboard         /english/leaderboard         301
-/savedsounds         /english/savedsounds         301
-/memesound           /english/memesound           301
-
-# Preserve memesound with ID parameters
-/memesound/:sound_id /english/memesound/:sound_id 301
